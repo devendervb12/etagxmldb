@@ -1,0 +1,23 @@
+{
+  "company" : {
+           "name" : "SMAX",
+           "address" : "Hyderabad",
+           "empInfo" :  [ 
+			           {
+			             "name" : "Devender",
+			             "role" : "Trainer",
+			             "dept" : "UI5"
+			           },
+			           {
+			             "name" : "Surender",
+			             "role" : "Call Support",
+			             "dept" : "Marketing"
+			           },
+			           {
+			             "name" : "Govardhan",
+			             "role" : "UI5 DEveloper",
+			             "dept" : "Support"
+			           }
+           ]
+  }
+}

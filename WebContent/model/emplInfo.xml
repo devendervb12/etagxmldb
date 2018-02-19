@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <company>
+      <address>Hyderabad</address>
+      <empInfo>
+         <element>
+            <dept>UI5</dept>
+            <name>Devender</name>
+            <role>Trainer</role>
+         </element>
+         <element>
+            <dept>Marketing</dept>
+            <name>Surender</name>
+            <role>Call Support</role>
+         </element>
+         <element>
+            <dept>Support</dept>
+            <name>Govardhan</name>
+            <role>UI5 DEveloper</role>
+         </element>
+      </empInfo>
+      <name>SMAX</name>
+   </company>
+</root>
